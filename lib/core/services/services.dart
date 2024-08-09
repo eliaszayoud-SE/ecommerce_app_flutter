@@ -9,7 +9,7 @@ class MyServices extends GetxService{
   Future<MyServices> init() async {
     Firebase.initializeApp(
         options: const FirebaseOptions(
-          apiKey: "AIzaSyD1D8xQktR4GnZSOEWe79-feLqlVQqvbM0",
+          apiKey: "",
           appId: "1:684458280795:android:1b4ba82d1f4487b53dfc7e",
           messagingSenderId: "684458280795",
           projectId: "ecommerce-31838",
